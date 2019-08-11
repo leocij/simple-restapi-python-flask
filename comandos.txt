@@ -1,0 +1,6 @@
+
+# Instala o flask
+sudo pip3 install flask
+
+# Executa o servidor
+python3 app.py
